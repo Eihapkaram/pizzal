@@ -10,12 +10,14 @@
     >
       <v-banner id="order" style="">
         <v-row>
+          
           <img
             id="bigimg"
             data-aos="fade-left"
             data-aos-duration="1000"
             src="/public/img/contact-img.png"
           />
+<img src="/public/img/sticker-onion.svg" />
 
           <v-col cols="6" lg="6" id="context">
             <div>
@@ -26,7 +28,7 @@
                 class="text-h3"
                 id="pragraf"
               >
-                Contact Now
+                Contact Now <img src="/public/img/sticker-mushroom.svg" />
               </p>
               <br />
               <br />
