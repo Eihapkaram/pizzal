@@ -156,6 +156,7 @@ export default {
   position: relative;
   top: 20px;
   height: fit-content;
+  padding-bottom: 100px;
 }
 /*/tablet/*/
 @media (max-width: 991px) {
