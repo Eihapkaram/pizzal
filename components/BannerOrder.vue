@@ -96,11 +96,16 @@ export default {};
     top: 100px;
     position: relative;
   }
+  #order {
+    height: fit-content;
+    padding-bottom: 200px;
+  }
 }
 /*/mobile/*/
 @media (max-width: 500px) {
   #order {
-    height: 800px;
+    height: fit-content;
+    padding-bottom: 200px;
   }
   #bigimg {
   left: -10%;
