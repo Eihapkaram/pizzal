@@ -166,6 +166,8 @@ export default {
   }
   #matrial {
     left: 50px;
+    height: fit-content;
+    padding-bottom: 80px;
     position: relative;
   }
   #matrial img {
@@ -179,7 +181,8 @@ export default {
     position: relative;
   }
   #matrial img {
-    margin-inline: -300%
+    margin-inline: -300%;
+    height: fit-content;
   }
   #myrow {
     display: flex;
