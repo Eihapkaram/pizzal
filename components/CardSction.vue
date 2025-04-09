@@ -273,7 +273,7 @@ export default {
 /*/tablet/*/
 @media (max-width: 991px) {
   .cardcon {
-    margin-bottom: 650px;
+    margin-bottom: 200px;
   }
 }
 /*/mobile/*/
