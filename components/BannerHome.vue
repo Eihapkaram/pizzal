@@ -13,8 +13,7 @@
       >
         <div>
           <p class="text-h2" id="pragraf">
-            Lorem ipsum dolor sit
-            <img width="80px" src="/public/img/sticker-cheese.svg" /> amet
+            Lorem ipsum dolor sit<img width="80px" src="/public/img/sticker-cheese.svg" /> amet
             consectetur adipisicing elit. Deleniti
           </p>
           <br />
@@ -119,7 +118,7 @@ export default {
       $("#pragraf").css({ left: "100px" });
       $("#btn").css({ left: "100px" });
       $("#btnflor").css({ left: "100px" });
-    }, 100);
+    }, 0);
   },
 };
 </script>
@@ -136,7 +135,7 @@ export default {
   position: absolute;
   transition: all, 3s;
   width: 270px;
-  height: 300px;
+  height: 280px;
   left: auto;
   display: none;
 }
@@ -434,8 +433,8 @@ export default {
   #pizza {
     position: absolute;
     transition: all, 3s;
-    width: 280px;
-    height: 280px;
+    width: 270px;
+    height: 270px;
     left: auto;
     display: none;
   }
@@ -444,7 +443,7 @@ export default {
     height: 48px;
   }
   #board {
-    width: 200px;
+    width: 280px;
     position: relative;
     top: -70px;
     height: 350px;
